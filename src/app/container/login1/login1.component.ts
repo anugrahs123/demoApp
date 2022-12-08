@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class Login1Component {
 
+  data={
+    a:'Login with Facebook',
+    b:'Login with Google',
+    c:'Login with Email'
+
+
+  }  
 }

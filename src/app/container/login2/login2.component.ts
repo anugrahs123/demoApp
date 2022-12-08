@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./login2.component.css']
 })
 export class Login2Component {
+  data="Continue"
 
 }

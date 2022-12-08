@@ -1,0 +1,12 @@
+.login{
+    display: grid;
+    place-items: center;
+    margin-top: 10em;
+  }
+  .policy{
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1em;
+      margin: 1em;
+
+  }
