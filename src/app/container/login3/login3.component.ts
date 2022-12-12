@@ -7,5 +7,7 @@ import { Component } from '@angular/core';
 })
 export class Login3Component {
   data="Continue"
-
+  continue="https://w7.pngwing.com/pngs/701/755/png-transparent-computer-icons-blog-iconfinder-font-awesome-icon-continue-size-miscellaneous-text-trademark.png"
+  p2="First Name"
+  p3="Last Name"
 }

@@ -7,6 +7,7 @@ import { Component,Input } from '@angular/core';
 })
 export class ButtonComponent {
   @Input() btnContent:any;
+  @Input() image:any;
   constructor(){
     
   }

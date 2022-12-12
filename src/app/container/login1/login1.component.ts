@@ -14,4 +14,7 @@ export class Login1Component {
 
 
   }  
+  facebook='https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png'
+  google='https://blog.hubspot.com/hubfs/image8-2.jpg'  
+  mail="https://static.vecteezy.com/system/resources/previews/000/547/340/original/envelope-mail-icon-vector-illustration.jpg"
 }
